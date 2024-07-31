@@ -18,61 +18,62 @@ This dataset contains information on 100,000 customers' financial and credit act
 
 a.Columns
 
-ID: Unique record identifier.
+1.ID: Unique record identifier.
 
-Customer_ID: Unique identifier for each customer.
+2.Customer_ID: Unique identifier for each customer.
 
-Month: Reporting month.
+3.Month: Reporting month.
 
-Name: Customer's name.
+4.Name: Customer's name.
 
-Age: Customer's age.
+5.Age: Customer's age.
 
-SSN: Customer's Social Security Number.
+6.SSN: Customer's Social Security Number.
 
-Occupation: Customer's occupation.
+7.Occupation: Customer's occupation.
 
-Annual_Income: Yearly income.
+8.Annual_Income: Yearly income.
 
-Monthly_Inhand_Salary: Monthly take-home salary.
+9.Monthly_Inhand_Salary: Monthly take-home salary.
 
-Num_Bank_Accounts: Number of bank accounts.
+10.Num_Bank_Accounts: Number of bank accounts.
 
-Num_Credit_Card: Number of credit cards.
+11.Num_Credit_Card: Number of credit cards.
 
-Interest_Rate: Applicable interest rate.
+12.Interest_Rate: Applicable interest rate.
 
-Num_of_Loan: Number of loans.
+13.Num_of_Loan: Number of loans.
 
-Type_of_Loan: Types of loans held.
+14.Type_of_Loan: Types of loans held.
 
-Delay_from_due_date: Average days payments are delayed.
+15.Delay_from_due_date: Average days payments are delayed.
 
-Num_of_Delayed_Payment: Count of delayed payments.
+16.Num_of_Delayed_Payment: Count of delayed payments.
 
-Changed_Credit_Limit: Change in credit limit.
+17.Changed_Credit_Limit: Change in credit limit.
 
-Num_Credit_Inquiries: Number of credit inquiries.
+18.Num_Credit_Inquiries: Number of credit inquiries.
 
-Credit_Mix: Variety of credit accounts.
+19.Credit_Mix: Variety of credit accounts.
 
-Outstanding_Debt: Total debt owed.
+20.Outstanding_Debt: Total debt owed.
 
-Credit_Utilization_Ratio: Ratio of credit used to credit available.
+21.Credit_Utilization_Ratio: Ratio of credit used to credit available.
 
-Credit_History_Age: Age of credit history (months).
+22.Credit_History_Age: Age of credit history (months).
 
-Payment_of_Min_Amount: Indicates if only minimum payments are made.
+23.Payment_of_Min_Amount: Indicates if only minimum payments are made.
 
-Total_EMI_per_month: Total monthly EMI payments.
+24.Total_EMI_per_month: Total monthly EMI payments.
 
-Amount_invested_monthly: Monthly investments.
+25.Amount_invested_monthly: Monthly investments.
 
-Payment_Behaviour: Spending and payment patterns.
+26.Payment_Behaviour: Spending and payment patterns.
 
-Monthly_Balance: End-of-month balance.
+27.Monthly_Balance: End-of-month balance.
 
-Credit_Score: Credit score category (Good, Standard, Poor).
+28.Credit_Score: Credit score category (Good, Standard, Poor).
+
 
 b.Types of column
 
